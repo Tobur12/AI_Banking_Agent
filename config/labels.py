@@ -1,0 +1,1 @@
+INTENT_LABELS = ["check account balance", "open savings account", "transfer money", "exit application", "Incorrect Input"]
